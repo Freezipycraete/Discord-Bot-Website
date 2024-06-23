@@ -10,10 +10,10 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          MusicMaker
+          strixe code
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       How about moderating your own server with strixe? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -23,7 +23,7 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite MusicMaker
+          Invite strixe
               </a>
             </Link>
   <div className="py-10"></div>
@@ -88,7 +88,7 @@ Vote strixe</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1254146870213611630/1254250332683374684/27e0bc9a66b8a29f8e12ce6fe070c537.gif?ex=6678cf26&is=66777da6&hm=ef3bf2e92802b09a79de23c03056024e22cc3a875d5e30823a147c7ec2603fa7&" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MusicMaker, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with strixe, the best and most up-to-date bot?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1254146870213611630/1254250332683374684/27e0bc9a66b8a29f8e12ce6fe070c537.gif?ex=6678cf26&is=66777da6&hm=ef3bf2e92802b09a79de23c03056024e22cc3a875d5e30823a147c7ec2603fa7&" />
               </>
